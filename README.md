@@ -2,6 +2,7 @@
 Réalisation des pages internet pour le site de l’entreprise Dépôt Bingo durant mon CDI.
 
 
+
 Anomalie bacs :
 [CODE](https://github.com/FlavianJld/Depot-Bingo/files/8894234/anomalie_bacs.txt)
 ![anomalie_bacs](https://user-images.githubusercontent.com/69201387/173438984-129decb7-aebf-455d-b0c7-71d16d6e4711.PNG)
